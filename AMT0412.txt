@@ -1,0 +1,6 @@
+cd C:
+mkdir Sunny
+touch AMT0412
+chmod +rwx AMT0412
+chmod +x AMT0412
+chmod -wx AMT0412
